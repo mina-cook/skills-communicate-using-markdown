@@ -1,7 +1,11 @@
 # これはH1ヘッダーです
 ## これがH2ヘッダーです
-![Yaktocat の画像](https://octodex.github.com/images/yaktocat.png)  
+
 
 ```python3
 print "Hello world!"
 ```
+
+- [x] GitHub Pages を有効にする
+- [ ] ポートフォリオの概要を作成する
+- [ ] 自己紹介をする
